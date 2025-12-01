@@ -1,0 +1,6 @@
+<div class="container">
+    <text class="title">
+       {{ title }}
+    </text>
+    <input type="button" style="background-color: darkred; width: 250px;" class="input" value="terminate" @click="onTerminate"></input>
+</div>

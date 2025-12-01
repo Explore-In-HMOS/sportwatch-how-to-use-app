@@ -1,0 +1,9 @@
+
+export default {
+    onCreate() {
+
+    },
+    onDestroy() {
+        console.info('Application onDestroy');
+    }
+};
