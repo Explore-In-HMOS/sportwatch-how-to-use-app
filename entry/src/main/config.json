@@ -1,6 +1,6 @@
 {
   "app": {
-    "bundleName": "com.hmosdemos.howtouseapp",
+    "bundleName": "com.hmosdemos.lite_wearable.how_to_use_app",
     "vendor": "hmosdemos",
     "version": {
       "code": 1000000,
